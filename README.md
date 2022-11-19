@@ -1,2 +1,2 @@
-# agamaRepo
-agamaRepo
+# Agama Repo
+agama-repo
