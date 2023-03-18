@@ -1,1 +1,15 @@
-{}
+{
+    "basic": {
+        "gh_author": "duttarnab",
+        "gh_repo_path": "agamaRepo",
+        "project_name": "basic",
+        "version": "0.0.1",
+        "author": "duttarnab",
+        "author_website": "https://github.com/duttarnab/agamaRepo",
+        "github_uri": "https://github.com/duttarnab/agamaRepo",
+        "project_description": "basic",
+        "license": "MIT",
+        "last_updated": "1679139851334",
+        "project_type": "community"
+    }
+}
