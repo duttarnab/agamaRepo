@@ -1,2 +1,6 @@
 Flow test
-     Basepath "test"
+     Basepath "hello"
+in = {name: "John"}
+RRF "index.ftlh" in
+Log "@info Done!"
+Finish "John_doe"
